@@ -1,0 +1,18 @@
+{
+  "name": "westbrook",
+  "version": "1.0.0",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./tailwind.css -o ./style.css --watch",
+    "server": "browser-sync start --no-notify --server --files '*.html, *.css'"
+  },
+  "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "@tailwindcss/forms": "^0.5.0",
+    "@tailwindcss/typography": "^0.5.2",
+    "tailwindcss": "^3.0.23"
+  },
+  "description": "redesigning the website of westbrook consulting",
+  "main": "index.js",
+  "author": "ak",
+  "license": "MIT"
+}
