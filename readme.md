@@ -1,10 +1,10 @@
-# What's this?
+# Tailwind Sandbox
 
-A simple template for a Tailwind project setup. 
+This is a simple template for a Tailwind sandbox. 
 
 If you are tired of changing a Tailwind class, doing `alt + tab`, and reloading the whole app to see the change your made, give it a try.  
 
-Treat this as your local Tailwind sandbox to quickly build small components. The browser reloads automatically after you make a change and save. Once you're satisfied with a design, copy + paste it in your main project.
+Treat this as your local sandbox to quickly build small Tailwind components. The browser reloads automatically after you make a change and save. Once you're satisfied with a design, copy + paste it in your main project.
 
 **What about Tailwind Playground?**
 
