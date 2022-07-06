@@ -1,6 +1,4 @@
-# Tailwind Sandbox
-
-This is a simple template for a Tailwind sandbox. 
+## Tailwind Sandbox
 
 If you are tired of changing a Tailwind class, doing `alt + tab`, and reloading the whole app to see the change your made, give it a try.  
 
