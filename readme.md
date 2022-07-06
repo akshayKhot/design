@@ -13,17 +13,28 @@ Treat this as your local sandbox to quickly build small Tailwind components. The
 ```bash
 git clone https://github.com/akshayKhot/design.git your_project_name
 cd your_project_name
-yarn
+yarn # or npm install
 ```
 
 ## Usage
 
 Run these commands in separate terminal tabs. 
 
+**yarn**
+
 ```bash
 yarn tailwind
 yarn server
 ```
+
+**npm**
+
+```bash
+npm run tailwind
+npm run server
+```
+
+I prefer and recommend using yarn, it's very fast compared to npm. 
 
 ![terminal](images/terminal.png)
 
