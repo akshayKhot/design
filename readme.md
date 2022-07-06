@@ -27,4 +27,6 @@ yarn tailwind
 yarn server
 ```
 
+![images/terminal.png]()
+
 That's it. Now go build some great designs. 
