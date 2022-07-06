@@ -1,4 +1,4 @@
-# What is this?
+# What's this?
 
 A simple template for a Tailwind project setup. 
 
@@ -8,7 +8,7 @@ Treat this as your local Tailwind sandbox to quickly build small components. The
 
 **What about Tailwind Playground?**
 
-Tailwind playground is great, but I do like to work in my favorite IDE with my favorite fonts and themes. Hope you do, too. 
+[Tailwind playground](https://play.tailwindcss.com/) is great, but I do like to work in my favorite IDE with my favorite fonts and themes. Hope you do, too. 
 
 ## Install
 
