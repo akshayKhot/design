@@ -13,7 +13,8 @@ Treat this as your local sandbox to quickly build small Tailwind components. The
 ```bash
 git clone https://github.com/akshayKhot/design.git your_project_name
 cd your_project_name
-yarn # or npm install
+yarn upgrade-interactive --latest
+yarn # or npm install (optional)
 ```
 
 ## Usage
